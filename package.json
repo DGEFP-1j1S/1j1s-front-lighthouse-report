@@ -4,7 +4,7 @@
   "main": "server.js",
   "license": "Apache-2.0",
   "dependencies": {
-    "@lhci/server": "~0.15.1",
+    "@lhci/server": "~0.16.0",
     "pg": "~8.16.3",
     "pg-hstore": "~2.3.4"
   },
